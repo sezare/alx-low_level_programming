@@ -1,1 +1,3 @@
-Hello_world Readme file
+Hello_world, This is my first Readme file in the  1st sprint of ALX...
+The basics of C is on the move to be implemented and inputed in my small had.
+C# ISFUN!!!
